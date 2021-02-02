@@ -132,4 +132,4 @@ dmypy.json
 .vscode/
 
 # venv
-venv_streamlit/
+venv/
